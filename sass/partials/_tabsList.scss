@@ -1,0 +1,20 @@
+.tabs{
+    width:900px;
+    margin:0 auto;
+}
+.tabs-list{
+    font-family: $text;
+    list-style: none;
+    margin: 0;
+    padding: 0px 0px 0px 3.2%;
+    margin-bottom: -1px;
+}
+.tabs-list-item{
+    float: left;
+    padding: 10px 35px;
+    color: $textColor;
+    text-decoration: none;
+    font-weight: bold;
+    background-color:$bgItem;
+    border: 1px solid $textColor;
+}
